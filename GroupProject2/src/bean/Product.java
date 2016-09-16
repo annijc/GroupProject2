@@ -1,5 +1,9 @@
 package bean;
 
+// some changes
+// some changes
+// some changesssss
+
 import java.io.Serializable;
 
 public class Product implements Serializable, Cloneable {
